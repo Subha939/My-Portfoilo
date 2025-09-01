@@ -790,9 +790,11 @@
     
   }
 
+
+
    @media (max-width: 406px) {
     :root {
-      --move-distancey: 2830px;
+      --move-distancey: 3050px;
       --move-distancex:-11px;
       --scale:1 ;/* for tablet+ */
     }
@@ -800,7 +802,7 @@
 
   @media (min-width: 407px) {
     :root {
-      --move-distancey: 2700px;
+      --move-distancey: 2800px;
       --move-distancex:-11px;
       --scale:1 ;/* for tablet+ */
     }
