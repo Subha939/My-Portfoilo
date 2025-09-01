@@ -791,10 +791,11 @@
   }
    @media (min-width: 100px) {
     :root {
-      --move-distancey: 3350px;
+      --move-distancey: 3150px;
       --move-distancex:10px;
       --scale:1 ;/* for tablet+ */
     }
+  
   }
 
    @media (min-width: 250px) {
